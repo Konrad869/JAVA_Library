@@ -1,5 +1,5 @@
 public class LibraryControl {
-    // stałe do kontrolowania programu
+ 
     private static final int EXIT = 0;
     private static final int ADD_BOOK = 1;
     private static final int ADD_MAGAZINE = 2;
@@ -67,7 +67,7 @@ public class LibraryControl {
 
     private void exit() {
         System.out.println("Koniec programu, papa!");
-        // zamykamy strumień wejścia
+       
         dataReader.close();
     }
 }
