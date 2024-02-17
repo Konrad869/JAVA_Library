@@ -3,7 +3,7 @@ The JAVA_Library application is an application written in pure Java, the purpose
 Tech
 
 
-Advertising_agency is developed using following technologies:
+JAVA_Library is developed using following technologies:
 
 
 
